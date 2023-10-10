@@ -56,11 +56,11 @@ body{
     }
     50%{
         top: calc(50vh - 50px);
-        left: calc(100vw - 100px);
+        left: calc(100vw - 102px);
         background-color: blue;
     }
     75%{
-        top: calc(100vh - 115px);
+        top: calc(100vh - 102px);
         left: calc(50vw - 50px);
         background-color: yellow;
     }
