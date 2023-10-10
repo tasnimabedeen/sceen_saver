@@ -56,7 +56,7 @@ body{
     }
     50%{
         top: calc(50vh - 50px);
-        left: calc(100vw - 102px);
+        left: calc(100vw - 104px);
         background-color: blue;
     }
     75%{
