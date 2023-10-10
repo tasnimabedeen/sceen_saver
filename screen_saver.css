@@ -60,7 +60,7 @@ body{
         background-color: blue;
     }
     75%{
-        top: calc(100vh - 102px);
+        top: calc(100vh - 115px);
         left: calc(50vw - 50px);
         background-color: yellow;
     }
